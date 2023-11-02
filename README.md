@@ -24,9 +24,12 @@ Prepare your input file containing SMILES in .csv format and name the column as 
 Make sure the paths of model, Caco2.pkl file and input files before executing the code file named as Caco2_Permeability_Prediction_model.ipynb.ipynb.
 
 **Output**
+
 Our model generates output in binary value (1 or 0), where 1 indicates compound to be permeable, while 0 indicates non-permeable.
 
 **Note:**
+
 To access and download the prediction model file in .pkl format and input feature.txt file, please refer to the tab "Tag --> v2.3.4".
 **Authors:** 
+
 Maninder Singh, Bilal Shaker, Jin Hee Lee, Sunghwan Choi, Sanghee Yoon, Shaherin Basith, Minghua Cui, Sunil Ahn, Haerim Han, Min SunYeom* and Sun Choi*
