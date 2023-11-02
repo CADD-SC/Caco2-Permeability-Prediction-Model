@@ -1,6 +1,8 @@
 # Caco-2-Permeability-Prediction-Model
 Machine Learning-based prediction model for Caco-2 Permeability prediction of drug candidates.
+
 **Introduction:**
+
 Welcome to our repository, here we provide machine learning model to efficiently predict the Caco-2 Permeability of target drug compounds in early stage drug discovery process. 
 
 **Dependencies:**
@@ -19,8 +21,8 @@ Welcome to our repository, here we provide machine learning model to efficiently
 
 **Execution:**
 
-Use Jupyter notebook to execute the code, download all the input files and models in .pkl format provided in the tab “Tag” 
-Prepare your input file containing SMILES in .csv format and name the column as “SMILES”
+Use Jupyter notebook to execute the code, download all the input files and models in .pkl format provided in the tab “Tag”. 
+Prepare your input file containing SMILES in .csv format and name the column as “SMILES”.
 Make sure the paths of model, Caco2.pkl file and input files before executing the code file named as Caco2_Permeability_Prediction_model.ipynb.ipynb.
 
 **Output:**
