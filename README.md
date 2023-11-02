@@ -30,6 +30,7 @@ Our model generates output in binary value (1 or 0), where 1 indicates compound 
 **Note:**
 
 To access and download the prediction model file in .pkl format and input feature.txt file, please refer to the tab "Tag --> v2.3.4".
+
 **Authors:** 
 
 Maninder Singh, Bilal Shaker, Jin Hee Lee, Sunghwan Choi, Sanghee Yoon, Shaherin Basith, Minghua Cui, Sunil Ahn, Haerim Han, Min SunYeom* and Sun Choi*
